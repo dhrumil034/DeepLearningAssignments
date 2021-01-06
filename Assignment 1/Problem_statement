@@ -1,0 +1,4 @@
+0.	HW0 (due by 9AM on 9/15), 5% of course grade:
+•Select a non-trivial function approximation problem from the UCI or Stanford databases, with d>5 inputs and 1 output.
+•Train a d-2d-1 feedforward neural network with sigmoid functions using backpropagation. 
+•Plot the results: MSE on the y-axis, Number of weight updates on the x-axis
