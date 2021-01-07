@@ -1,0 +1,1 @@
+HW2 (due by 9AM on 10/13), 10%: Select a data set for a forecasting or prediction problem.  Compare the performance of (a) plain backpropagation (using a few recent data points to make predictions); (b) backpropagation through time; (c) LSTM; and (d) GRU networks.

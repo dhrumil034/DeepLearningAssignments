@@ -1,0 +1,6 @@
+1.	HW1 (due by 9AM on 9/29), 10% of course grade: For the above or another problem you select, experiment with networks with different numbers of connection weights and layers. Compare the relative performance, addressing two questions: (i) Does increasing the number of weights help? (ii) Does increasing the number of layers help?  Show the results by plotting different curves on the same graph/figure; one for (i), one for (ii).  
+
+•	Compare performance in two ways:
+1.	Best results obtained after a large number of computations.
+2.	Computational effort required to get satisfactory results (e.g., MSE=0.01).
+•	Summarize your conclusions in one paragraph.
